@@ -10,3 +10,5 @@ client.on('message', message => {//!- Flix |     Ráááááz  , $!#8811
   .catch(console.error);//!- Flix |     Ráááááz  , $!#8811 
   }
 });
+//////////////////////////////////////////////////////////////////////////////////////////////////
+client1.login(process.env.BOT1_TOKEN);
