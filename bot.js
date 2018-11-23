@@ -1,3 +1,4 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
 const Discord1 = require('discord.js');
 const Discord2 = require('discord.js');
 const Discord3 = require('discord.js');
@@ -50,10 +51,10 @@ const client23 = new Discord23.Client();
 const client24 = new Discord24.Client();
 const client25 = new Discord25.Client();
 //////////////////////////////////////////////////////////////////////////////////////////////////
-var ServerID = "510514272229392384"; 
+var ServerID = "515643291409317918"; 
 var ChannelID = "515643291409317922";
-var prefix = "R";
-console.log('Love .. Online.');
+var prefix = "H";
+console.log('Hs .. Online.');
 //////////////////////////////////////////////////////////////////////////////////////////////////
 client1.on('ready', () => {
     function timerFunc() {
@@ -343,7 +344,7 @@ client12.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix + "say")) {
 message.delete(3000);
-    if(message.author.id !== "463698464845594628") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "343743154429755392") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1);
 message.channel.send(args).then(s => {
 s.delete(3000);
@@ -463,7 +464,7 @@ client22.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix + "say")) {
 message.delete(3000);
-    if(message.author.id !== "343743154429755392") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "463698464845594628") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1);
 message.channel.send(args).then(s => {
 s.delete(3000);
@@ -508,79 +509,79 @@ s.delete(3000);
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 client1.on('ready', () => {
-client1.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client1.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client2.on('ready', () => {
-client2.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client2.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client3.on('ready', () => {
-client3.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client3.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client4.on('ready', () => {
-client4.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client4.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client5.on('ready', () => {
-client5.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client5.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client6.on('ready', () => {
-client6.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client6.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client7.on('ready', () => {
-client7.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client7.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client8.on('ready', () => {
-client8.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client8.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client9.on('ready', () => {
-client9.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client9.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client10.on('ready', () => {
-client10.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client10.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client11.on('ready', () => {
-client11.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client11.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client12.on('ready', () => {
-client12.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client12.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client13.on('ready', () => {
-client13.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client13.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client14.on('ready', () => {
-client14.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client14.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client15.on('ready', () => {
-client15.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client15.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client16.on('ready', () => {
-client16.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client16.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client17.on('ready', () => {
-client17.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client17.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client18.on('ready', () => {
-client18.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client18.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client19.on('ready', () => {
-client19.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client19.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client20.on('ready', () => {
-client20.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client20.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client21.on('ready', () => {
-client21.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client21.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client22.on('ready', () => {
-client22.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client22.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client23.on('ready', () => {
-client23.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client23.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client24.on('ready', () => {
-client24.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client24.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 client25.on('ready', () => {
-client25.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
+client25.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/iitxbro"});
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 client1.on("message", message => {
@@ -590,6 +591,23 @@ client1.on("message", message => {
 message.delete(3000);
     if(message.author.id !== "463698464845594628") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
 message.channel.send('#rep <@!463698464845594628>').then(s => {
+s.delete(3000);
+});
+message.channel.send('->rep <@!463698464845594628>').then(s => {
+s.delete(3000);
+});
+}
+});
+client2.on("message", message => {
+          if (message.author.bot) return;
+      if(!message.channel.guild) return;
+        if(message.content.startsWith(prefix + "rep")) {
+message.delete(3000);
+    if(message.author.id !== "463698464845594628") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+message.channel.send('#rep <@!463698464845594628>').then(s => {
+s.delete(3000);
+});
+message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
