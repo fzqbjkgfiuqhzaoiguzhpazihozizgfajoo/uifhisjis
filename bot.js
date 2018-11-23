@@ -592,12 +592,6 @@ message.delete(3000);
 message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client2.on("message", message => {
@@ -610,9 +604,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -629,9 +620,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client4.on("message", message => {
@@ -644,9 +632,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -663,9 +648,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client6.on("message", message => {
@@ -678,12 +660,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -700,9 +676,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client8.on("message", message => {
@@ -715,9 +688,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -734,9 +704,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client10.on("message", message => {
@@ -749,9 +716,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -768,9 +732,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client12.on("message", message => {
@@ -783,9 +744,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -802,9 +760,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client14.on("message", message => {
@@ -817,9 +772,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -836,9 +788,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client16.on("message", message => {
@@ -851,9 +800,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -870,9 +816,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client18.on("message", message => {
@@ -885,9 +828,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -904,9 +844,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client20.on("message", message => {
@@ -919,9 +856,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -938,9 +872,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client22.on("message", message => {
@@ -953,9 +884,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
@@ -972,9 +900,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client24.on("message", message => {
@@ -989,9 +914,6 @@ s.delete(3000);
 message.channel.send('->rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
 }
 });
 client25.on("message", message => {
@@ -1004,9 +926,6 @@ message.channel.send('#rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 message.channel.send('->rep <@!463698464845594628>').then(s => {
-s.delete(3000);
-});
-message.channel.send('t!rep <@!463698464845594628>').then(s => {
 s.delete(3000);
 });
 }
