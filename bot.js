@@ -522,9 +522,6 @@ client4.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.t
 client5.on('ready', () => {
 client5.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
 });
-client6.on('ready', () => {
-client6.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
-});
 client7.on('ready', () => {
 client7.user.setActivity('Love ..', {type: "STREAMING",url: "http://www.twitch.tv/raaaaaaaaaaaz"});
 });
