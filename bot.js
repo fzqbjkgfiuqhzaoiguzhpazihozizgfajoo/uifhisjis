@@ -53,8 +53,8 @@ const client25 = new Discord25.Client();
 //////////////////////////////////////////////////////////////////////////////////////////////////
 var ServerID = "515643291409317918"; 
 var ChannelID = "515643291409317922";
-var prefix = "H";
-console.log('Hs .. Online.');
+var prefix = "R";
+console.log('Love .. Online.');
 //////////////////////////////////////////////////////////////////////////////////////////////////
 client1.on('ready', () => {
     function timerFunc() {
