@@ -52,9 +52,9 @@ const client24 = new Discord24.Client();
 const client25 = new Discord25.Client();
 //////////////////////////////////////////////////////////////////////////////////////////////////
 var ServerID = "520296992161792000"; 
-var ChannelID = "520296992161792002";
+var ChannelID = "522676773180407817";
 var prefix = "O";
-console.log('Love .. Online.');
+console.log('Oreo :) Online.');
 //////////////////////////////////////////////////////////////////////////////////////////////////
 client1.on('ready', () => {
     function timerFunc() {
