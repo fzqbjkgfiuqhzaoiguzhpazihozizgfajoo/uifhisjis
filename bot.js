@@ -458,6 +458,82 @@ message.channel.send(args);
 }
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
+client1.on("error", function(err) {
+ return console.log(err);
+});
+client2.on("error", function(err) {
+ return console.log(err);
+});
+client3.on("error", function(err) {
+ return console.log(err);
+});
+client4.on("error", function(err) {
+ return console.log(err);
+});
+client5.on("error", function(err) {
+ return console.log(err);
+});
+client6.on("error", function(err) {
+ return console.log(err);
+});
+client7.on("error", function(err) {
+ return console.log(err);
+});
+client8.on("error", function(err) {
+ return console.log(err);
+});
+client9.on("error", function(err) {
+ return console.log(err);
+});
+client10.on("error", function(err) {
+ return console.log(err);
+});
+client11.on("error", function(err) {
+ return console.log(err);
+});
+client12.on("error", function(err) {
+ return console.log(err);
+});
+client13.on("error", function(err) {
+ return console.log(err);
+});
+client14.on("error", function(err) {
+ return console.log(err);
+});
+client15.on("error", function(err) {
+ return console.log(err);
+});
+client16.on("error", function(err) {
+ return console.log(err);
+});
+client17.on("error", function(err) {
+ return console.log(err);
+});
+client18.on("error", function(err) {
+ return console.log(err);
+});
+client19.on("error", function(err) {
+ return console.log(err);
+});
+client20.on("error", function(err) {
+ return console.log(err);
+});  
+client21.on("error", function(err) {
+ return console.log(err);
+});  
+client22.on("error", function(err) {
+ return console.log(err);
+});  
+client23.on("error", function(err) {
+ return console.log(err);
+});  
+client24.on("error", function(err) {
+ return console.log(err);
+});  
+client25.on("error", function(err) {
+ return console.log(err);
+});  
+//////////////////////////////////////////////////////////////////////////////////////////////////
 var prefix1 = "1";
 var prefix2 = "2";
 var prefix3 = "3";
